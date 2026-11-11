@@ -1,0 +1,172 @@
+[
+  {
+    "id": "stages",
+    "title": "Етапи життя",
+    "subtitle": "Stages in life",
+    "words": [
+      ["adolescence / adolescent", "підлітковий вік / підліток"],
+      ["adult / adulthood", "дорослий / зрілий вік"],
+      ["elderly (person)", "літня людина"],
+      ["grow up / grown-up", "дорослішати / дорослий"],
+      ["infant", "немовля"],
+      ["juvenile", "неповнолітній"],
+      ["marriage", "шлюб"],
+      ["middle age / middle-aged", "середній вік / середнього віку"],
+      ["newborn", "новонароджений"],
+      ["OAP (Old Age Pensioner)", "пенсіонер (за віком)"],
+      ["pensioner", "пенсіонер"],
+      ["senior citizen", "людина похилого віку"],
+      ["teenager", "підліток"],
+      ["toddler", "маля (яке вчиться ходити)"],
+      ["youngster", "юнак, молода людина"]
+    ]
+  },
+  {
+    "id": "marital-status",
+    "title": "Сімейний стан",
+    "subtitle": "Marital status",
+    "words": [
+      ["divorced", "розлучений"],
+      ["married / unmarried", "одружений / неодружений"],
+      ["separated", "що живуть окремо (не розлучившись)"],
+      ["single", "неодружений, незаміжня"],
+      ["widow / widower", "вдова / вдівець"]
+    ]
+  },
+  {
+    "id": "weddings",
+    "title": "Весілля",
+    "subtitle": "Weddings",
+    "words": [
+      ["best man", "дружба (свідок нареченого)"],
+      ["bride", "наречена"],
+      ["chief bridesmaid", "головна дружка (свідкиня)"],
+      ["church wedding", "вінчання"],
+      ["civil wedding", "реєстрація шлюбу (без церкви)"],
+      ["cohabiting", "співжиття без шлюбу"],
+      ["courting", "залицяння"],
+      ["engagement", "заручини"],
+      ["groom", "наречений"],
+      ["honeymoon", "медовий місяць"],
+      ["newly-weds", "молодята"],
+      ["wedding ceremony", "весільна церемонія"]
+    ]
+  },
+  {
+    "id": "families",
+    "title": "Типи сімей",
+    "subtitle": "Families",
+    "words": [
+      ["close-knit family", "дружна, згуртована сім'я"],
+      ["extended family", "велика родина (з бабусями, дядьками тощо)"],
+      ["immediate family", "найближчі родичі"],
+      ["nuclear family", "сім'я з батьків і дітей"]
+    ]
+  },
+  {
+    "id": "people",
+    "title": "Люди в житті",
+    "subtitle": "People in life",
+    "words": [
+      ["acquaintance", "знайомий"],
+      ["adopted / adoptive (parents)", "усиновлений / прийомні (батьки)"],
+      ["biological (parents)", "біологічні (батьки)"],
+      ["couple", "пара"],
+      ["-in-law (daughter-, father-, mother-, sister-, son-in-law)", "родичі через шлюб: невістка, свекор/тесть, свекруха/теща, зовиця/своячка, зять"],
+      ["ex- (husband / wife)", "колишній чоловік / колишня дружина"],
+      ["fiancé / fiancée", "наречений / наречена (заручені)"],
+      ["foster child / parents", "прийомна дитина / прийомні батьки"],
+      ["godfather / godmother", "хрещений батько / хрещена мати"],
+      ["half sister", "сестра по одному з батьків"],
+      ["husband-to-be", "майбутній чоловік"],
+      ["nephew / niece", "племінник / племінниця"],
+      ["offspring", "нащадки, діти"],
+      ["sibling", "рідний брат або сестра"],
+      ["spouse (formal)", "чоловік / дружина (подружжя)"],
+      ["step- (father, mother, sister, brother, daughter, son)", "вітчим, мачуха, зведена сестра, зведений брат, падчерка, пасинок"],
+      ["twins / triplets", "близнюки / трійня"],
+      ["wife-to-be", "майбутня дружина"]
+    ]
+  },
+  {
+    "id": "fixed-phrases",
+    "title": "Сталі вирази",
+    "subtitle": "Fixed phrases",
+    "words": [
+      ["attracted to", "якого вабить до когось"],
+      ["be on good terms with", "бути в добрих стосунках з"],
+      ["bear in mind", "мати на увазі, пам'ятати"],
+      ["brace yourself", "приготуйся, тримайся"],
+      ["chat smb up", "загравати з кимось"],
+      ["fall in love with", "закохатися в"],
+      ["for some… for others", "для одних… для інших"],
+      ["get engaged", "заручитися"],
+      ["have things in common", "мати щось спільне"],
+      ["live in sin", "жити разом без шлюбу"],
+      ["pull yourself together", "взяти себе в руки"],
+      ["quarrel / squabble with", "сваритися / сперечатися через дрібниці з"],
+      ["run away (from home)", "втекти (з дому)"],
+      ["run in the family", "бути спадковим у родині"],
+      ["set an example", "подавати приклад"],
+      ["split up (with smb)", "розійтися (з кимось)"],
+      ["start a family", "створити сім'ю"]
+    ]
+  },
+  {
+    "id": "phrasal-verbs",
+    "title": "Фразові дієслова",
+    "subtitle": "Phrasal verbs",
+    "words": [
+      ["ask out (on a date)", "запросити на побачення"],
+      ["break up", "розійтися, розірвати стосунки"],
+      ["bring up", "виховувати"],
+      ["drift apart", "поступово віддалитися одне від одного"],
+      ["fall for", "закохатися в; повестися на (обман)"],
+      ["fall out with", "посваритися з"],
+      ["get by", "зводити кінці з кінцями"],
+      ["get on / along with", "ладнати з"],
+      ["get together", "зібратися; почати зустрічатися"],
+      ["look after", "доглядати, піклуватися про"],
+      ["look down on", "дивитися зверхньо на"],
+      ["look up to", "поважати, рівнятися на"],
+      ["take after", "бути схожим на (родича)"]
+    ]
+  },
+  {
+    "id": "idioms",
+    "title": "Ідіоми",
+    "subtitle": "Idioms",
+    "words": [
+      ["a bimbo", "гарненька, але недалека дівчина"],
+      ["a brick", "надійна людина, золота людина"],
+      ["a busybody", "той, хто пхає носа в чужі справи"],
+      ["a couch potato", "ледар, що весь час сидить перед телевізором"],
+      ["a fuddy-duddy", "старомодний буркотун"],
+      ["a golden boy", "улюбленець, щасливчик"],
+      ["a gossip", "пліткар, пліткарка"],
+      ["a high-flyer", "амбітна, успішна людина"],
+      ["a jerk", "придурок, покидьок"],
+      ["a layabout", "нероба"],
+      ["a moron", "дурень, ідіот"],
+      ["a pain in the neck", "нестерпна людина, «головний біль»"],
+      ["a slave driver", "суворий начальник, експлуататор"],
+      ["a slob", "нечупара, нехлюй"],
+      ["a sponger", "нахлібник"],
+      ["a stick-in-the-mud", "консерватор, нудна людина"],
+      ["a troublemaker", "баламут, порушник спокою"],
+      ["a wet blanket", "зануда, що псує всім настрій"],
+      ["a windbag", "базіка, балакун"],
+      ["an early bird", "рання пташка, «жайворонок»"],
+      ["be an item", "бути парою"],
+      ["be in the clouds", "витати в хмарах"],
+      ["be on cloud nine", "бути на сьомому небі"],
+      ["be over the moon", "бути на сьомому небі від щастя"],
+      ["have butterflies in your stomach", "відчувати метеликів у животі (хвилюватися)"],
+      ["jump for joy", "стрибати від радості"],
+      ["the life and soul of the party", "душа компанії"],
+      ["the salt of the earth", "сіль землі, чудова порядна людина"],
+      ["tie the knot", "одружитися"],
+      ["wine and dine", "пригощати, водити по ресторанах"]
+    ]
+  }
+]
